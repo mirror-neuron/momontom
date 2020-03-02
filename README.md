@@ -10,4 +10,4 @@ A clone of the productivity chrome app Momentum on Vanilla JS
 - [X] Offline Support 
 
 ## Try it out
-https://mirror-neuron.github.iio/momontom/
+https://mirror-neuron.github.io/momontom/
